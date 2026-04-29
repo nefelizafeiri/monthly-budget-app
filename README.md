@@ -26,7 +26,7 @@ care about (tracking my own monthly spending while budgeting for grad school).
 ## Run It
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install -r requirements.txt
 jupyter notebook Monthly_Budgeting_App.ipynb
 ```
 
