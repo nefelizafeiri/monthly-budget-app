@@ -97,6 +97,11 @@ range(), break/continue, loop-else, list nesting, nested loops, membership and
 identity operators. The OO refactor in cell 3 then layers classes, composition,
 and method-driven UI on top.
 
+## Contributors
+
+- [Nefeli Zafeiri](https://github.com/nefelizafeiri)
+- [Daniel Regalado](https://github.com/DanielRegaladoUMiami)
+
 ## License
 
 [MIT](LICENSE) — feel free to use as a starting point for your own budget app.
